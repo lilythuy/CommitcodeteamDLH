@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_File_Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9539d7a5-72ee-422c-bfb8-a09bad973ef2</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1150a9ff-9d3e-4a93-9740-2e68ca332bde</id>
+      <masked>false</masked>
+      <name>Code</name>
+   </variable>
+</TestCaseEntity>
