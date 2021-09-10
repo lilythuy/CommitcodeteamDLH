@@ -10,7 +10,7 @@
    <followRedirects>true</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{ \n  customer_name: \&quot;Tester01\&quot;\n  customer_phone: \&quot;0375555210\&quot;\n}&quot;,
+  &quot;text&quot;: &quot;{ \n  customer_name: \&quot;Tester01\&quot;\n  customer_phone: \&quot;0375525210\&quot;\n}&quot;,
   &quot;contentType&quot;: &quot;application/json&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>
